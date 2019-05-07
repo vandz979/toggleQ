@@ -1,0 +1,11 @@
+
+.listArray ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.listArray li {
+        background: #cce5ff;
+        margin: 5px;
+}
